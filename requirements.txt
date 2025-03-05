@@ -1,0 +1,4 @@
+colorama
+PyInquirer
+ttkthemes
+python-dateutil==2.8.2
